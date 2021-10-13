@@ -1,0 +1,25 @@
+//ALOGARITHMS DIVISION//
+
+#include <stdio.h>
+
+int main() 
+
+{
+
+int a,b,div;
+
+printf("enter value of A");
+
+scanf("%d",&a);
+
+printf("enter value of B");
+
+scanf("%d",&b);
+
+div=a/b;
+
+printf("%d",a/b,div);
+
+return 0;
+
+}
